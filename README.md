@@ -10,6 +10,7 @@ This project is a SQL-based Online Bookstore Database designed to manage books, 
 - Books.csv
 - Customers.csv
 - Orders.csv
+- SQL_Project_Questions.pdf
 
 ## Skills Demonstrated
 
